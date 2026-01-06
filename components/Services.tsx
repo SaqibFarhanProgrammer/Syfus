@@ -26,7 +26,7 @@ const services = [
 
 const Services: React.FC = () => {
   return (
-    <section id="services" className="py-32 px-6 bg-[#0E0E11] relative z-20">
+    <section id="services" className="py-32 px-6 bg-[#080809  ] relative z-20">
       <div className="container mx-auto">
         <div className="mb-20">
           <span className="text-xs font-bold tracking-[0.4em] uppercase text-neutral-600 block mb-4">Core Expertise</span>
